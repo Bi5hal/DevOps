@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/bishal/Documents/projects/DevOps/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_7d84743c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/bishal/Documents/projects/DevOps/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4c0d484c"
+  }
+]
